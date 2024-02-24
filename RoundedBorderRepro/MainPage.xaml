@@ -37,17 +37,7 @@
                 BackgroundColor="Transparent"
                 BorderColor="Blue"
                 BorderWidth="2"
-                Margin="25,20,25,20"
-                Aspect="AspectFit"
-                Padding="12"
                 >
-                <ImageButton.Shadow>
-                    <Shadow
-                    Brush="Black"
-                    Offset="0,2"
-                    Radius="3"
-                    Opacity="0.5" />
-                </ImageButton.Shadow>
             </ImageButton>
         </VerticalStackLayout>
     </ScrollView>
